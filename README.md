@@ -8,7 +8,7 @@
 
  C. University of Mysore
 
- D. BBA-80%
+ D. BBA-81%
 
  E. IIT ROORKEE-
 
