@@ -31,8 +31,7 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 
 ## 2.Work Experience
 
-- Campaign Manager at<img src="https://github.com/RaghavAP369/Images/raw/main/Amity%20university%20.jpeg" alt="Amity University Logo" width="50">
-[![Amity University](https://img.shields.io/badge/Amity%20University-Campaign Manager-blue)](https://www.amity.edu/)
+Campaign Manager at <a href="https://www.amity.edu/"><img src="https://github.com/RaghavAP369/Images/raw/main/Amity%20university%20.jpeg" alt="Amity University Logo" width="50"></a>
 
 - Duration: 2020-2022
 
