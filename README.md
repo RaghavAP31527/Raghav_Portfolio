@@ -6,6 +6,13 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects an
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-004A9E?style=for-the-badge&logo=sql&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CA9D0?style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge)
 
 ## Contact
 
