@@ -6,6 +6,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-004A9E?style=for-the-badge&logo=sql&logoColor=white)
@@ -21,6 +22,7 @@
 [![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge)](https://www.scala-lang.org/)
 [![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge)](https://hive.apache.org/)
 [![Apache Zookeeper](https://img.shields.io/badge/Apache%20Zookeeper-2186E4?style=for-the-badge)](https://zookeeper.apache.org/)
+
 
 If you'd like to get in touch or collaborate, you can reach me at [![Email](https://img.shields.io/badge/Email-raghavanilpillai%40gmail.com-blue.svg)](mailto:raghavanilpillai@gmail.com)
 
