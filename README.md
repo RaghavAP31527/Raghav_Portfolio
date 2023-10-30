@@ -16,9 +16,6 @@
 ![SciPy](https://img.shields.io/badge/SciPy-8CA9D0?style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge)
 
-## [![Contact](https://img.shields.io/badge/Contact-Me-blue.svg)](mailto:raghavanilpillai@gmail.com)
-
-
 If you'd like to get in touch or collaborate, you can reach me at [![Email](https://img.shields.io/badge/Email-raghavanilpillai%40gmail.com-blue.svg)](mailto:raghavanilpillai@gmail.com)
 
 
@@ -48,3 +45,4 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 
 
 Thank you for visiting my GitHub portfolio!
+## [![Contact](https://img.shields.io/badge/Contact-Me-blue.svg)](mailto:raghavanilpillai@gmail.com)
