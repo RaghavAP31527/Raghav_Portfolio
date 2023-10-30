@@ -36,7 +36,7 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 
 <img src="https://github.com/RaghavAP369/Images/raw/main/UoM.png" alt="UoM Logo" width="27">**University of Mysore BBA** (2021-2024[UGC guidelines final certification delay]):![81%](https://img.shields.io/badge/81%25-4287f5?style=for-the-badge)
 
-<img src="https://github.com/RaghavAP369/Images/raw/main/Amity%20university%20.jpeg" alt="Amity University Logo" width="27">**Amity University Noida**(2022-2025):![A grade](https://img.shields.io/badge/A%20grade-81%25-4287f5?style=for-the-badge)
+<img src="https://github.com/RaghavAP369/Images/raw/main/Amity%20university%20.jpeg" alt="Amity University Logo" width="27">**Amity University Noida**(2022-2025):![A grade](https://img.shields.io/badge/A%20grade-4287f5?style=for-the-badge)
 
 <img src="https://github.com/RaghavAP369/Images/raw/main/IIT%20ROORKEE%201.png" alt="IIT Roorkee Logo" width="27">Post Graduate Programme at :![IIT Roorkee](https://img.shields.io/badge/IIT%20Roorkee-FF6F61?style=for-the-badge)
 
