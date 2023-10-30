@@ -20,7 +20,7 @@
 If you'd like to get in touch or collaborate, you can reach me at [![Email](https://img.shields.io/badge/Email-raghavanilpillai%40gmail.com-blue.svg)](mailto:raghavanilpillai@gmail.com)
 
 
-## 1.
+## 1.Education
 <img src="https://github.com/RaghavAP369/Images/raw/main/saraswathi%20vidyanik.png" alt="Your Logo" width="50">  **10th Board:**![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
 <img src="https://github.com/RaghavAP369/Images/raw/main/saraswathi%20vidyanik.png" alt="Your Logo" width="50">  **12th Board:**![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
 
@@ -29,13 +29,14 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 - Post Graduate Programme at :![IIT Roorkee](https://img.shields.io/badge/IIT%20Roorkee-FF6F61?style=for-the-badge)
 
 
-## 2.[![Work Experience](https://img.shields.io/badge/Work%20Experience-JobTitle%20at%20CompanyName-blue.svg)]
+## 2.Work Experience
 
-- Campaign Manager at[![Amity University](https://img.shields.io/badge/Amity%20University-Campaign Manager-blue)](https://www.amity.edu/)
+- Campaign Manager at<img src="https://github.com/RaghavAP369/Images/raw/main/Amity%20university%20.jpeg" alt="Amity University Logo" width="50">
+[![Amity University](https://img.shields.io/badge/Amity%20University-Campaign Manager-blue)](https://www.amity.edu/)
 
 - Duration: 2020-2022
 
-## 3.[![Internship](https://img.shields.io/badge/Internship-InternshipRole%20at%20Company-blue.svg)]
+## 3.Internship
 - KPMG Internship
   - Duration: 2 months ![KPMG](https://img.shields.io/badge/KPMG-1867C0?style=for-the-badge)
 - SAP Internship
