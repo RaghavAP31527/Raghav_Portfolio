@@ -26,7 +26,8 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 <img src="https://github.com/RaghavAP369/Images/raw/main/saraswathi%20vidyanik.png" alt="Your Logo" width="27">  **12th Board:**--![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
 
 <img src="https://github.com/RaghavAP369/Images/raw/main/UoM.png" alt="UoM Logo" width="27">University: **University of Mysore BBA**: ![81%](https://img.shields.io/badge/81%25-4287f5?style=for-the-badge)
-- Post Graduate Programme at :![IIT Roorkee](https://img.shields.io/badge/IIT%20Roorkee-FF6F61?style=for-the-badge)
+
+<img src="https://github.com/RaghavAP369/Images/raw/main/IIT%20ROORKEE.jpeg" alt="IIT Roorkee Logo" width="27">Post Graduate Programme at :![IIT Roorkee](https://img.shields.io/badge/IIT%20Roorkee-FF6F61?style=for-the-badge)
 
 
 ## 2.Work Experience
