@@ -1,4 +1,6 @@
-# Welcome to my **GitHub portfolio!** Here, you'll find a collection of my projects and contributions. *I have experience in the following programming languages and technologies:*
+# Welcome to my **GitHub portfolio!** Here, you'll find a collection of my projects and contributions. 
+
+*I have experience in the following programming languages and technologies:*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -23,7 +25,7 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 ## 1.Education
 <img src="https://github.com/RaghavAP369/Images/raw/main/saraswathi%20vidyanik.png" alt="Your Logo" width="27">  **10th Board:**--![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
 
-<img src="https://github.com/RaghavAP369/Images/raw/main/saraswathi%20vidyanik.png" alt="Your Logo" width="27">  **12th Board:**--![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
+<img src="https://github.com/RaghavAP369/Images/raw/main/saraswathi%20vidyanik.png" alt="Saraswathi Vidyanikethan" width="27">  **12th Board:**--![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
 
 <img src="https://github.com/RaghavAP369/Images/raw/main/UoM.png" alt="UoM Logo" width="27">University: **University of Mysore BBA**: ![81%](https://img.shields.io/badge/81%25-4287f5?style=for-the-badge)
 
@@ -38,7 +40,7 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
      
 <img src="https://github.com/RaghavAP369/Images/raw/main/SAP.png" alt="SAP Logo" width="27"> **SAP virtual experience** Duration: 2 months  ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge)
 
-<img src="https://github.com/RaghavAP369/Images/raw/main/TSF.png" alt="Your Logo" width="27"> **The Spark Foundation** Duration- 1 month
+<img src="https://github.com/RaghavAP369/Images/raw/main/TSF.png" alt="Your Logo" width="27"> **The Spark Foundation** Duration- 1 month [![The Spark Foundation](https://img.shields.io/badge/The%20Spark%20Foundation-FF5733?style=for-the-badge)](https://www.thesparkfoundation.com/)
 
 <img src="https://github.com/RaghavAP369/Images/raw/main/meriSKILL.png" alt="Your Logo" width="27"> **merriSKILL Internship-** Duration- 1 month  ![meriSKILL](https://img.shields.io/badge/meriSKILL-FF5733?style=for-the-badge)
 
