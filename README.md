@@ -1,4 +1,4 @@
-Welcome to my GitHub portfolio! Here, you'll find a collection of my projects and contributions. I have experience in the following programming languages and technologies:
+# Welcome to my **GitHub portfolio!** Here, you'll find a collection of my projects and contributions. *I have experience in the following programming languages and technologies:*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -14,29 +14,37 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects an
 ![SciPy](https://img.shields.io/badge/SciPy-8CA9D0?style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge)
 
-## Contact
+## [![Contact](https://img.shields.io/badge/Contact-Me-blue.svg)](mailto:your.email@example.com)
 
-If you'd like to get in touch or collaborate, you can reach me at raghavanilpillai@gmail.com
 
-## 1. Education
+If you'd like to get in touch or collaborate, you can reach me at [![Email](https://img.shields.io/badge/Email-raghavanilpillai%40gmail.com-blue.svg)](mailto:raghavanilpillai@gmail.com)
+
+
+## 1.[![Education](https://img.shields.io/badge/Education-YourDegree-YourInstitution-blue.svg)](https://your-education-link)
 
 - 10th Board: ![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
 - 12th Board: ![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
 - University: University of Mysore
 - BBA: ![81%](https://img.shields.io/badge/81%25-4287f5?style=for-the-badge)
-- Post Graduate Programme at IIT Roorkee: ![8.09 CGPA](https://img.shields.io/badge/8.09%20CGPA-4287f5?style=for-the-badge)
+- Post Graduate Programme at :![IIT Roorkee](https://img.shields.io/badge/IIT%20Roorkee-FF6F61?style=for-the-badge)
 
-## 2. Work Experience
 
-- Campaign Manager at Amity University
+## 2.[![Work Experience](https://img.shields.io/badge/Work%20Experience-JobTitle%20at%20CompanyName-blue.svg)](https://your-work-experience-link)
+
+- Campaign Manager at <a href="https://www.amity.edu/">
+  <img src="https://drive.google.com/file/d/15p7C2XMnyeYymfc0E9_k70bKL_sKoGCi/view?usp=sharing" alt="Amity University Logo" width="200">
+</a>
+ [![Amity University](https://img.shields.io/badge/Amity%20University-Student-blue)](https://www.amity.edu/)
+
 - Duration: 2020-2022
 
-## 3. Internships
+## 3.[![Internship](https://img.shields.io/badge/Internship-InternshipRole%20at%20Company-blue.svg)](https://your-internship-link)
 
 - KPMG Internship
-  - Duration: 2 months
-
+  - Duration: 2 months ![KPMG](https://img.shields.io/badge/KPMG-1867C0?style=for-the-badge)
 - SAP Internship
-  - Duration: 2 months
-
+  - Duration: 2 months  ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge)
+-MeriSKILL Internship-
+  -Duration- 1 month  ![meriSKILL](https://img.shields.io/badge/meriSKILL-FF5733?style=for-the-badge)
+-
 Thank you for visiting my GitHub portfolio!
