@@ -1,25 +1,35 @@
-# Data Scientist 
+Welcome to my GitHub portfolio! Here, you'll find a collection of my projects and contributions. I have experience in the following programming languages and technologies:
 
-# 1.Education
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
 
- A. 10th Board-80%
+## Contact
 
- B. 12th Board-80%
+If you'd like to get in touch or collaborate, you can reach me at raghavanilpillai@gmail.com
 
- C. University of Mysore
+## 1. Education
 
- D. BBA-81%
+- 10th Board: ![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
+- 12th Board: ![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
+- University: University of Mysore
+- BBA: ![81%](https://img.shields.io/badge/81%25-4287f5?style=for-the-badge)
+- Post Graduate Programme at IIT Roorkee: ![8.09 CGPA](https://img.shields.io/badge/8.09%20CGPA-4287f5?style=for-the-badge)
 
- E. IIT ROORKEE-
+## 2. Work Experience
 
-Post Graduate Programme-8.09 CGPA
+- Campaign Manager at Amity University
+- Duration: 2020-2022
 
-## 2. Work Experience-
+## 3. Internships
 
- F. Campaign Manager at Amity University-(2020-2022)
+- KPMG Internship
+  - Duration: 2 months
 
-## 3.Internships
+- SAP Internship
+  - Duration: 2 months
 
-G. KPMG internship 2 month
-
- H. SAP internship 2 month
+Thank you for visiting my GitHub portfolio!
