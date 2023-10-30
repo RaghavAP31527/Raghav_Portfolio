@@ -14,13 +14,13 @@
 ![SciPy](https://img.shields.io/badge/SciPy-8CA9D0?style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge)
 
-## [![Contact](https://img.shields.io/badge/Contact-Me-blue.svg)](mailto:your.email@example.com)
+## [![Contact](https://img.shields.io/badge/Contact-Me-blue.svg)](mailto:your.email@example.com
 
 
 If you'd like to get in touch or collaborate, you can reach me at [![Email](https://img.shields.io/badge/Email-raghavanilpillai%40gmail.com-blue.svg)](mailto:raghavanilpillai@gmail.com)
 
 
-## 1.[![Education](https://img.shields.io/badge/Education-YourDegree-YourInstitution-blue.svg)](https://your-education-link)
+## 1.[![Education](https://img.shields.io/badge/Education-YourDegree-YourInstitution-blue.svg)]
 
 - 10th Board: ![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
 - 12th Board: ![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
@@ -29,17 +29,17 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 - Post Graduate Programme at :![IIT Roorkee](https://img.shields.io/badge/IIT%20Roorkee-FF6F61?style=for-the-badge)
 
 
-## 2.[![Work Experience](https://img.shields.io/badge/Work%20Experience-JobTitle%20at%20CompanyName-blue.svg)](https://your-work-experience-link)
+## 2.[![Work Experience](https://img.shields.io/badge/Work%20Experience-JobTitle%20at%20CompanyName-blue.svg)]
 
 - Campaign Manager at <a href="https://www.amity.edu/">
   <img src="https://drive.google.com/file/d/15p7C2XMnyeYymfc0E9_k70bKL_sKoGCi/view?usp=sharing" alt="Amity University Logo" width="200">
 </a>
+
  [![Amity University](https://img.shields.io/badge/Amity%20University-Student-blue)](https://www.amity.edu/)
 
 - Duration: 2020-2022
 
-## 3.[![Internship](https://img.shields.io/badge/Internship-InternshipRole%20at%20Company-blue.svg)](https://your-internship-link)
-
+## 3.[![Internship](https://img.shields.io/badge/Internship-InternshipRole%20at%20Company-blue.svg)]
 - KPMG Internship
   - Duration: 2 months ![KPMG](https://img.shields.io/badge/KPMG-1867C0?style=for-the-badge)
 - SAP Internship
