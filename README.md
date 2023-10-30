@@ -34,17 +34,12 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 
 <a href="https://www.amity.edu/"><img src="https://github.com/RaghavAP369/Images/raw/main/Amity%20university%20.jpeg" alt="Amity University Logo" width="27"></a> **Amity Global Business School**:Campaign Manager at Duration: 2020-2022
 
-<img src="https://github.com/RaghavAP369/Images/raw/main/KPMG_logo.svg.png" alt="KPMG Logo" width="27">**KPMG virtual experience**
-   - Duration: 2 months ![KPMG](https://img.shields.io/badge/KPMG-1867C0?style=for-the-badge)
+<img src="https://github.com/RaghavAP369/Images/raw/main/KPMG_logo.svg.png" alt="KPMG Logo" width="27">**KPMG virtual experience** Duration: 2 months ![KPMG](https://img.shields.io/badge/KPMG-1867C0?style=for-the-badge)
      
-<img src="https://github.com/RaghavAP369/Images/raw/main/SAP.png" alt="SAP Logo" width="27"> **SAP virtual experience**
-    Duration: 2 months  ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge)
+<img src="https://github.com/RaghavAP369/Images/raw/main/SAP.png" alt="SAP Logo" width="27"> **SAP virtual experience** Duration: 2 months  ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge)
 
-<img src="https://github.com/RaghavAP369/Images/raw/main/TSF.png" alt="Your Logo" width="27"> **The Spark Foundation**
+<img src="https://github.com/RaghavAP369/Images/raw/main/TSF.png" alt="Your Logo" width="27"> **The Spark Foundation** Duration- 1 month
 
-  -  Duration- 1 month
-
-<img src="https://github.com/RaghavAP369/Images/raw/main/meriSKILL.png" alt="Your Logo" width="27"> **merriSKILL Internship-**
-  -   Duration- 1 month  ![meriSKILL](https://img.shields.io/badge/meriSKILL-FF5733?style=for-the-badge)
+<img src="https://github.com/RaghavAP369/Images/raw/main/meriSKILL.png" alt="Your Logo" width="27"> **merriSKILL Internship-** Duration- 1 month  ![meriSKILL](https://img.shields.io/badge/meriSKILL-FF5733?style=for-the-badge)
 
 Thank you for visiting my GitHub portfolio!
