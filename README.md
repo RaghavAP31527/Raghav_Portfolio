@@ -14,13 +14,13 @@
 ![SciPy](https://img.shields.io/badge/SciPy-8CA9D0?style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge)
 
-## [![Contact](https://img.shields.io/badge/Contact-Me-blue.svg)](mailto:your.email@example.com
+## [![Contact](https://img.shields.io/badge/Contact-Me-blue.svg)](mailto:raghavanilpillai@gmail.com)
 
 
 If you'd like to get in touch or collaborate, you can reach me at [![Email](https://img.shields.io/badge/Email-raghavanilpillai%40gmail.com-blue.svg)](mailto:raghavanilpillai@gmail.com)
 
 
-## 1.![Education](https://img.shields.io/badge/Education-YourDegree-YourInstitution-blue.svg)
+## 1.
 
 - 10th Board: ![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
 - 12th Board: ![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
