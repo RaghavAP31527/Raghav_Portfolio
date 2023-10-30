@@ -31,7 +31,7 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 
 ## 2.[![Work Experience](https://img.shields.io/badge/Work%20Experience-JobTitle%20at%20CompanyName-blue.svg)]
 
-- Campaign Manager at[![Amity University](https://img.shields.io/badge/Amity%20University-  Campaign Manager-blue)](https://www.amity.edu/)
+- Campaign Manager at[![Amity University](https://img.shields.io/badge/Amity%20University-Campaign Manager-blue)](https://www.amity.edu/)
 
 - Duration: 2020-2022
 
