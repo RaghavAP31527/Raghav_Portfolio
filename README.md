@@ -21,9 +21,7 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 
 
 ## 1.
-<img src="https://github.com/RaghavAP369/Images/raw/main/saraswathi%20vidyanik.png" alt="Your Logo" width="100">
-
-- **10th Board:** ![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
+<img src="https://github.com/RaghavAP369/Images/raw/main/saraswathi%20vidyanik.png" alt="Your Logo" width="400">- **10th Board:** ![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
 - **12th Board:** ![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
 
 - University: University of Mysore
