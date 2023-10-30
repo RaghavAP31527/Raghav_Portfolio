@@ -43,7 +43,8 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 <img src="https://github.com/RaghavAP369/Images/raw/main/TSF.png" alt="Your Logo" width="27"> **The Spark Foundation**
 
   -  Duration- 1 month
+
 <img src="https://github.com/RaghavAP369/Images/raw/main/meriSKILL.png" alt="Your Logo" width="27"> **merriSKILL Internship-**
-     Duration- 1 month  ![meriSKILL](https://img.shields.io/badge/meriSKILL-FF5733?style=for-the-badge)
--
+  -   Duration- 1 month  ![meriSKILL](https://img.shields.io/badge/meriSKILL-FF5733?style=for-the-badge)
+
 Thank you for visiting my GitHub portfolio!
