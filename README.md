@@ -42,6 +42,9 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
  Duration: 2 months  
 <img src="https://github.com/RaghavAP369/Images/blob/main/TSF1.jpg" alt="TSF Logo" width="27"> [![The Spark Foundation](https://img.shields.io/badge/The%20Spark%20Foundation-FF5733?style=for-the-badge)](https://www.thesparkfoundation.com/) **The Spark Foundation** Duration- 1 month 
 
-<img src="https://github.com/RaghavAP369/Images/raw/main/meriSKILL.png" alt="meriSKILL Logo" width="27">   ![meriSKILL](https://img.shields.io/badge/meriSKILL-FF5733?style=for-the-badge) Duration- 1 month
+<img src="https://github.com/RaghavAP369/Images/raw/main/meriSKILL.png" alt="meriSKILL Logo" width="27">  ![meriSKILL](https://img.shields.io/badge/meriSKILL-9ED0E6?style=for-the-badge) Duration- 1 month
+
+## 3.Projects-
+
 
 Thank you for visiting my GitHub portfolio!
