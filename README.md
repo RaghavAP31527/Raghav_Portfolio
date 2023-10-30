@@ -32,7 +32,7 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 ## 2.[![Work Experience](https://img.shields.io/badge/Work%20Experience-JobTitle%20at%20CompanyName-blue.svg)]
 
 - Campaign Manager at <a href="https://www.amity.edu/">
-  <img src="https://drive.google.com/file/d/15p7C2XMnyeYymfc0E9_k70bKL_sKoGCi/view?usp=sharing" alt="Amity University Logo" width="200">
+  <img src="https://www.pngwing.com/en/free-png-nqefq" alt="Amity University Logo" width="200">
 </a>
 
  [![Amity University](https://img.shields.io/badge/Amity%20University-Student-blue)](https://www.amity.edu/)
