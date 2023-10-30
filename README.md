@@ -44,8 +44,8 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
   - Duration: 2 months ![KPMG](https://img.shields.io/badge/KPMG-1867C0?style=for-the-badge)
 - SAP Internship
   - Duration: 2 months  ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge)
-  -
-  - ### -MeriSKILL Internship-
+  - 
+-MeriSKILL Internship-
   -Duration- 1 month  ![meriSKILL](https://img.shields.io/badge/meriSKILL-FF5733?style=for-the-badge)
 -
 Thank you for visiting my GitHub portfolio!
