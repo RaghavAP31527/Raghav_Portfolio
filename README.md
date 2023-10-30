@@ -21,8 +21,8 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 
 
 ## 1.Education
-<img src="https://github.com/RaghavAP369/Images/raw/main/saraswathi%20vidyanik.png" alt="Your Logo" width="50">  **10th Board:**![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
-<img src="https://github.com/RaghavAP369/Images/raw/main/saraswathi%20vidyanik.png" alt="Your Logo" width="50">  **12th Board:**![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
+<img src="https://github.com/RaghavAP369/Images/raw/main/saraswathi%20vidyanik.png" alt="Your Logo" width="10">  **10th Board:**![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
+<img src="https://github.com/RaghavAP369/Images/raw/main/saraswathi%20vidyanik.png" alt="Your Logo" width="10">  **12th Board:**![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
 
 - University: University of Mysore
 - BBA: ![81%](https://img.shields.io/badge/81%25-4287f5?style=for-the-badge)
@@ -31,7 +31,7 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 
 ## 2.Work Experience
 
-<a href="https://www.amity.edu/"><img src="https://github.com/RaghavAP369/Images/raw/main/Amity%20university%20.jpeg" alt="Amity University Logo" width="50"> **Amity Global Business School**:Campaign Manager at Duration: 2020-2022
+<a href="https://www.amity.edu/"><img src="https://github.com/RaghavAP369/Images/raw/main/Amity%20university%20.jpeg" alt="Amity University Logo" width="10"> **Amity Global Business School**:Campaign Manager at Duration: 2020-2022
 
 ## 3.Internship
 - KPMG Internship
