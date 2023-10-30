@@ -1,8 +1,6 @@
 # Portfolio
 
-## Raghav Anil Pillai 
-[![Raghav Anil Pillai](https://img.shields.io/badge/Raghav%20Anil%20Pillai-000?style=for-the-badge&logo=github)](https://github.com/RaghavAP369)
-
+## [![Raghav Anil Pillai](https://img.shields.io/badge/Raghav%20Anil%20Pillai-000?style=for-the-badge&logo=github)](https://github.com/RaghavAP369)
 
 *I have experience in the following programming languages and technologies:*
 
