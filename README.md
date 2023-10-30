@@ -32,7 +32,7 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 
 ## 2.Work Experience
 
-<a href="https://www.amity.edu/"><img src="https://github.com/RaghavAP369/Images/raw/main/Amity%20university%20.jpeg" alt="Amity University Logo" width="10"></a> **Amity Global Business School**:Campaign Manager at Duration: 2020-2022
+<a href="https://www.amity.edu/"><img src="https://github.com/RaghavAP369/Images/raw/main/Amity%20university%20.jpeg" alt="Amity University Logo" width="27"></a> **Amity Global Business School**:Campaign Manager at Duration: 2020-2022
 
 ## 3.Internship
 - KPMG Internship
