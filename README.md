@@ -1,5 +1,5 @@
 # Portfolio
-
+<img src="https://github.com/RaghavAP369/Images/blob/main/trippy%20illusion.gif" width="45">I am a Data Scientist 
 Raghav Anil Pillai[![Raghav Anil Pillai](https://img.shields.io/badge/Raghav%20Anil%20Pillai-000?style=for-the-badge&logo=github&logoWidth=69&logoHeight=69)](https://github.com/RaghavAP369)
 
 *I have experience in the following programming languages and technologies:*
@@ -54,7 +54,7 @@ Campaign Manager at Duration: 2020-2022
 <img src="https://github.com/RaghavAP369/Images/raw/main/meriSKILL.png" alt="meriSKILL Logo" width="27">  ![meriSKILL](https://img.shields.io/badge/meriSKILL-9ED0E6?style=for-the-badge) Duration- 1 month
 
 ## 3.Projects-  
-<img src="https://github.com/RaghavAP369/Images/blob/main/1.gif" width="45">
+<img src="https://github.com/RaghavAP369/Images/blob/main/trippy%20illusion.gif" width="45">
 
 
 [Sales Data Analysis](https://github.com/RaghavAP369/Sales-Data-analysis)
