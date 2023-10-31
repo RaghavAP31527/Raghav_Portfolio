@@ -1,7 +1,7 @@
 # Portfolio
-<img src="https://github.com/RaghavAP369/Images/blob/main/trippy%20illusion.gif" width="100" height="100" >I am a Data Scientist 
 
-Raghav Anil Pillai[![Raghav Anil Pillai](https://img.shields.io/badge/Raghav%20Anil%20Pillai-000?style=for-the-badge&logo=github&logoWidth=69&logoHeight=69)](https://github.com/RaghavAP369)
+Raghav Anil Pillai[![Raghav Anil Pillai](https://img.shields.io/badge/Raghav%20Anil%20Pillai-000?style=for-the-badge&logo=github&logoWidth=69&logoHeight=69)](https://github.com/RaghavAP369)<img src="https://github.com/RaghavAP369/Images/blob/main/trippy%20illusion.gif" width="100" height="100" >
+
 
 *I have experience in the following programming languages and technologies:*
 
