@@ -55,10 +55,7 @@ Campaign Manager at Duration: 2020-2022
 <img src="https://github.com/RaghavAP369/Images/raw/main/meriSKILL.png" alt="meriSKILL Logo" width="27">  ![meriSKILL](https://img.shields.io/badge/meriSKILL-9ED0E6?style=for-the-badge) Duration- 1 month
 
 ## 3.Projects-  
-<img src="https://github.com/RaghavAP369/Images/blob/main/trippy%20illusion.gif" width="45">
-
-
-[Sales Data Analysis](https://github.com/RaghavAP369/Sales-Data-analysis)
+<img src="https://github.com/RaghavAP369/Images/blob/main/trippy%20illusion.gif" width="45">[Sales Data Analysis](https://github.com/RaghavAP369/Sales-Data-analysis)-
 
 
 Thank you for visiting my GitHub portfolio!
