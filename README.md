@@ -1,11 +1,6 @@
 # Portfolio
 
-[![Raghav Anil Pillai](https://img.shields.io/badge/Raghav%20Anil%20Pillai-000?style=for-the-badge&logo=github&logoWidth=69&logoHeight=69)](https://github.com/RaghavAP369)<div style="display: flex; flex-direction: row;">
-    <img src="https://github.com/RaghavAP369/Images/blob/main/Simple%20bar%20graph.gif" width="96" height="45" style="max-width: 50%;">
-    <img src="https://github.com/RaghavAP369/Images/blob/main/Graph%20that%20loops.gif" width="96" height="45" style="max-width: 50%;">
-</div>
-
-
+[![Raghav Anil Pillai](https://img.shields.io/badge/Raghav%20Anil%20Pillai-000?style=for-the-badge&logo=github&logoWidth=69&logoHeight=69)](https://github.com/RaghavAP369)
 
 *I have experience in the following programming languages and technologies:*
 
